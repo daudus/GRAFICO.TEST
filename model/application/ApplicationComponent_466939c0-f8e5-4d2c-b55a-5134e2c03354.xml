@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Component1"
+    id="466939c0-f8e5-4d2c-b55a-5134e2c03354"
+    documentation="documentation for Application Component1">
+  <properties
+      key="PROP_App1"
+      value="app1"/>
+</archimate:ApplicationComponent>
